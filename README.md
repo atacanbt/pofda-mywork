@@ -1,5 +1,6 @@
 # Palmer Penguins Dataset Analysis
-
-![Palmer Penguins DataSet visual from GitHub](/Users/atacanbuyuktalas/Desktop/DA-PofDA/pofda-mywork/images/palmer_penguins_github.png)
-
 ## by Atacan Buyuktalas
+
+![Palmer Penguins DataSet visual from GitHub](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
+Image by Allison Horst
+
