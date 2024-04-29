@@ -1,5 +1,5 @@
 # Palmer Penguins Dataset Analysis
-<!-- markdownlint-disable-next-line -->
+!-- markdownlint-disable-next-line --
 <div align="center">
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" alt="Palmer Penguins DataSet visual from GitHub" width=50% height=50%> 
 </div>
